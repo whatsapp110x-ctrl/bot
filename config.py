@@ -15,7 +15,7 @@ from pathlib import Path
 #     Alternatively, set these as environment variables / in a .env file
 # ═══════════════════════════════════════════════════════════════════════
 
-BOT_TOKEN = "8007887534:AAHsLBAq2WUVytDiR5wNL3txZIWw0kNofF4"   # set via BOT_TOKEN environment secret
+BOT_TOKEN = "8007887534:AAEfh6A2PY6MiZHnPjBeih9ClipWnfhhlGc"   # set via BOT_TOKEN environment secret
 API_ID    = 29756601    # set via API_ID environment secret
 API_HASH  = "967c4656b8dd6a475b7786e3287ba2d3"   # set via API_HASH environment secret
 OWNER_IDS = [7052170756]   # Your Telegram user IDs  e.g. [123456789]
